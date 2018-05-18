@@ -1,0 +1,12 @@
+{
+  "name": "AverageDJ",
+  "discription": "A cool Bot", 
+  "version": "0.0.0",
+  "main": "run.bat",
+  "script": {
+  "start": "run.bat"
+  }, 
+  "dependencies": { 
+  "discord.js": "11.0.0" | 
+  }
+}
