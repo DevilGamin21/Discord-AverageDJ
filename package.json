@@ -2,11 +2,11 @@
   "name": "AverageDJ",
   "discription": "A cool Bot", 
   "version": "0.0.0",
-  "main": "run.bat",
+  "main": "start_red.bat",
   "script": {
-  "start": "run.bat"
+  "start": "start_red.bat"
   }, 
   "dependencies": { 
-  "discord.js": "11.0.0" | 
+  "discord.js": "11.0.0" 
   }
 }
